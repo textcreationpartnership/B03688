@@ -1,0 +1,269 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An account of Mr. Edward Sclater's return to the communion of the Church of England and of the recantation he made at the Church of St. Mary Savoy, the fifth of May, 1689. Dr. Burnet, Bishop of Sarum, preaching the sermon there that forenoon. / By Anthony Horneck D.D.</title>
+            <author>Horneck, Anthony, 1641-1697.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1689</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 36 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B03688</idno>
+            <idno type="STC">Wing H2816</idno>
+            <idno type="STC">ESTC R178249</idno>
+            <idno type="EEBO-CITATION">53981531</idno>
+            <idno type="OCLC">ocm 53981531</idno>
+            <idno type="VID">180249</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B03688)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 180249)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2823:10)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An account of Mr. Edward Sclater's return to the communion of the Church of England and of the recantation he made at the Church of St. Mary Savoy, the fifth of May, 1689. Dr. Burnet, Bishop of Sarum, preaching the sermon there that forenoon. / By Anthony Horneck D.D.</title>
+                  <author>Horneck, Anthony, 1641-1697.</author>
+               </titleStmt>
+               <extent>16 p.   </extent>
+               <publicationStmt>
+                  <publisher>by Edward Jones ;</publisher>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>Printed at London :</pubPlace>
+                  <pubPlace>and re-printed at Edinburgh :</pubPlace>
+                  <date>1689.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Initial letter.</note>
+                  <note>Imperfect: tightly bound with slight loss of text.</note>
+                  <note>Reproduction of the original in the National Library of Scotland.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Sclater, Edward, 1623-1699?</term>
+               <term>Catholic Church --  Controversial literature --  17th century.</term>
+               <term>Anglican converts --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-06</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-08</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2010-08</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="narrative">
+            <pb n="1" facs="tcp:180249:1" rendition="simple:additions"/>
+            <head>AN ACCOUNT Of Mr. <hi>EDWARD SCLATER</hi>'s RETURN to the Communion of the Church of ENGLAND: And of the RECANTATION he made at the Church of St. <hi>Mary Savoy,</hi> the Fifth of <hi>May,</hi> 1689. Dr. BURNET, Biſhop of <hi>Sarum,</hi> Preaching the Sermon there that Forenoon.</head>
+            <byline>By ANTHONY HORNECK D. D.</byline>
+            <p>
+               <seg rend="decorInit">T</seg>Hoſe, who have Power and Authority to command me, thinking it requiſite, that Mr. <hi>Sclater's</hi> Return and Reconciliation to the Church of <hi>England</hi> ſhould be made publick, in Obedience to their Order, I ſhall imparti<g ref="char:EOLhyphen"/>ally ſet down the Beginning, Progreſs, and the Publick Declaration he made of his Outward Repentance; I ſay, Outward for the Church judges not of things Occult and Inward, and by that means, give the Reader an Opportunity to exerciſe his Charity. It was about the beginning of <hi>April</hi> laſt, that Mr. <hi>Sclater</hi> ſent a Friend of his to me, to deſire me to admit him to the Communion at the <hi>Savoy,</hi> and the Motive alledged, was, That he had not only given my Lord Arch-Biſhop of <hi>Canterbury</hi> Satisfaction in the Sincerity of his Repentance, but was ready to make a free and formal Retractation of his former Errors, be<g ref="char:EOLhyphen"/>fore me, and to aſſure me, that nothing but Conviction, and Evidence, and a clearer ſight of the Truth, had wrought this Converſion in him; &amp; the Reaſon, he ſaid, why he choſe to Receive the <hi>Euchariſt</hi> at the <hi>Savoy,</hi> was, becauſe he intended to live thereabout, in a Houſe of his own, and there to betake himſelf to ſuch an Employment as he ſhould be capable of.</p>
+            <p>The News of his Repentance, though the juncture of Time was Tem<g ref="char:EOLhyphen"/>ptation enough to ſuggeſt ſome <hi>Idea's,</hi> which might incline me to a Smile,
+<pb n="2" facs="tcp:180249:2"/>
+yet I entertained, with all the Gravity and Seriouſneſs as became a Di<g ref="char:EOLhyphen"/>vine, and a Chriſtian, that ought to be pleaſed with the coming back of a ſtraying Sheep, and much more of a Shepherd who had loſt his way.</p>
+            <p>But the Admiſſion of ſuch a Perſon, tho' neverſo penitent, appearing to me a matter of more than ordinary Conſequence, I ſoon reſolved, not to determine anything, till I had conſulted with my Dioceſan, the Lord Bi<g ref="char:EOLhyphen"/>ſhop of <hi>London.</hi> I was willing enough in the mean while to hear the Rea<g ref="char:EOLhyphen"/>ſons and Motives of this intended Change, which, upon Enquiry, I found to be theſe, That he had been miſtaken, deceived and deluded, with plauſible Arguments, and ſpecious Pretences, and hopes of finding great<g ref="char:EOLhyphen"/>er Truth and Piety, and Severity of Life, in the Romiſh Church, than in our Communion; which miſtaks he was now ſo ſenſible of, that he was ready to retract any thing he had ſaid or writ againſt the Doctrine of the Church of <hi>England.</hi> And when hereupon I acquainted my Lord Bi<g ref="char:EOLhyphen"/>ſhop of <hi>London</hi> with theſe his Confeſſions and Proteſtations, his Lord<g ref="char:EOLhyphen"/>ſhip was pleaſed to refer the whole matters to <hi>his Grace the Lord Arch-Biſhop of Canterbury,</hi> under whoſe Jurisdiction he had lived a great part of his time, and to whoſe Cogniſance and Determination the Difficulties, attending his Re-admiſſion into the Church, did more immediatly belong. After this, <hi>his Grace,</hi> being importuned, and earneſtly intreated, to de<g ref="char:EOLhyphen"/>clare his final Reſolution, and to order the way and manner of a publick Acknowledgment of his Faults, <hi>his Lordſhip</hi> was pleaſed to deſire Mr. <hi>Gee</hi> to gather out of Mr. <hi>Sclatter</hi>'s Book the moſt Offenſive Paſſages, with an Intent, to have them inſerted in his Recantation; and Mr. <hi>Needham, his Grace's</hi> Chaplain, at the ſame time, was ordered to take notice of ſuch Conſeſſions, and Penitential Acknowledgements, as Mr. <hi>Sclater</hi> had made in his Letters and Addreſſes to <hi>his Lordſhip,</hi> in order to make his Re<g ref="char:EOLhyphen"/>tractation full and comprehenſive, and Satisfactory to the Auditors and Spectators, before whom it was to be read and pronounc'd; and in the framing of this form of Revoking his Erroneous Doctrines, I was comman<g ref="char:EOLhyphen"/>ded to aſſiſt, which I was very ready to do, It being very agreeable to my Inclination to promote, and wiſh well to all Acts of Chriſtian Charity.</p>
+            <p>This being done, and diſpatch'd on <hi>Saturday</hi> the Fourth of <hi>May,</hi> and Mr. <hi>Sclater</hi> giving his Conſent to the Retractation we had drawn up, and <hi>his Grace</hi> approved of; Mr. <hi>Sclater</hi> accordingly appeared next day at the <hi>Savoy,</hi> and after the Morning Service was ended, juſt before the Pſalm was ſung, in a very full Auditory, and in the preſence of a very great Throng of people, and in the Hearing of my Lord Biſhop of <hi>Salisbury,</hi>
+               <pb n="3" facs="tcp:180249:2"/>
+who did me the Favour to Preach that Morning, with a Loud and Audible Voice, and with Tears flowing from his Eyes, Read, Pronounced, and Repeated, the Recantation which you have at the end of this Relation.</p>
+            <p>An Acknowledgment of this Nature, I thought, could not but be ſur<g ref="char:EOLhyphen"/>prizing to a Congregation, who had no Notice of it aforehand; and there<g ref="char:EOLhyphen"/>fore to prepare them for the Retractation, I ſpake to them in the words fol<g ref="char:EOLhyphen"/>lowing:</p>
+            <q>
+               <p>Beloved Hearers; By Order and Direction of my Superiors, I am to acquaint you, That there is a Perſon in this Congregation, who having ſome time ſince deſerted the Communion of the Church of <hi>England,</hi> and gone over to that of <hi>Rome,</hi> and now deteſting what he hath done, ſen<g ref="char:EOLhyphen"/>ſible of the Errors of his Ways, doth earneſtly deſire to be re-admitted into the Boſom of that Church, which he hath forſaken.</p>
+               <p>The Perſon, thus penitent and ſenſible, is Mr. <hi>Edward Sclater,</hi> late Vicat and Miniſter of <hi>Putney;</hi> Touch'd with a ſenſe of the Offence, and Scandal, he hath given to the Church, both to the Clergy and Laity, and all the Members of the Church of <hi>England,</hi> he chuſes to appear this day before this Congregation, publickly to profeſs his unfeigned ſorrow for that great Offence, to make ſome Reparation for the Scandal.</p>
+               <p>It was about <hi>Chriſtmas</hi> laſt, when he made his firſt Application to the Lord Arch Biſhop of <hi>Canterbury,</hi> and adreſs'd to him ſeveral Let<g ref="char:EOLhyphen"/>ters, Declaring his abhorence of the Popiſh Doctrines in general, and thoſe particularly which he had offered to defend in a Book publiſhed to that purpoſe, together with the Motives that oblidged him to think of forſaking that Erroneous and Idolatrous Church, into which, through miſtake of their pretended Piety, and Ignorance of the Danger of their Doctrines, he had been drawn and enticed.</p>
+               <p>His <hi>Grace,</hi> after due Conſideration of his Proteſtations, and Pro<g ref="char:EOLhyphen"/>miſes, was at laſt content he ſhould be admitted to <hi>Lay-Communion,</hi> in<g ref="char:EOLhyphen"/>joyning withal, ſince he had reproached, calumniated, abuſed<g ref="char:punc">▪</g> offen<g ref="char:EOLhyphen"/>ded and ſcandalized the Church of <hi>England,</hi> to make a publick Recan<g ref="char:EOLhyphen"/>tation of his former Erroneous Tenets and Opinions, which Pennance, (if a Duty may be called ſo,) he is ready to perform this day before you all. It's very probable there may be found abundance of perſons, who will be loath to extend their Charity to a Belief of the Reality and Sin<g ref="char:EOLhyphen"/>cerity of his Return; but to ſuch I muſt crave leave to ſay, that as it is not for us to uſurp the Authority of God, who alone is the Searcher of all Hearts, ſo till we ſee manifeſt Proofs to the contrary, our Religion binds
+<pb n="4" facs="tcp:180249:3"/>
+us to believe the beſt, and to forgive, and receive him as a Brother: <hi>Brethren, If a Man be overtaken in a Fault, ye which are Spiritual, reſtore ſuch a one in the Spirit of Meekneſs, conſidering thy ſelf, leaſt thou alſo be tempted; Gal.</hi> 6 1. This was the Rule the Apoſtle gave to Churches of <hi>Galatia,</hi> and it would look very ſtrange in us, if we ſhould not follow that direction, eſpecially, when our great Maſter hath charged us, <hi>Take heed to your ſelves, it thy Brother treſpaſs againſt thee, rebuke him, and if he repent, forgive him, and if he treſpaſs a<g ref="char:EOLhyphen"/>gainst thee</hi> 7 <hi>times in a day, and</hi> 7 <hi>times in a day, turn again to thee, ſaying, I repent, thou ſhalt forgive him.</hi> Luk. 17. 3.</p>
+               <p>Were it ſo, that the Ancient Diſcipline, eſpecially that of the <hi>African</hi> Church, had been kept up, the Penitent, who appears before you, have ſubmitted to a far more more rigorous Task, even the Religious Hardſhips of ſome years, before he could have been admitted to the Holy <hi>Euchariſt,</hi> but the reviving of theſe Ancient Severities, being rather an Object of our pious Wiſhes, than a thing practicable in this Iron Age; a publick Retractation, Confeſſion, Acknowledgment, De<g ref="char:EOLhyphen"/>claration and Proteſtation, before an All-ſeing Eye, and in the Face of a whole Congregation, is as much as can be rationally deſired.</p>
+               <p>And now Mr. <hi>Sclater,</hi> having thus told your Caſe to the Congregati<g ref="char:EOLhyphen"/>on, I do intreat, deſire, and admoniſh you, to confirm what I have ſaid, by your own free, deliberat, and conſiderate Profeſſion before many wit<g ref="char:EOLunhyphen"/>neſſes.</p>
+               <p>Mr. <hi>Sclater,</hi> the degrees of your Sin, ought to be anſwered by the de<g ref="char:EOLhyphen"/>grees of your Sorrow, and Contrition; your Apoſtacy hath been pub<g ref="char:EOLhyphen"/>lick, and your Repentance ought to be ſo too. And may the God and Father of our Lord Jeſus Chriſt, who ſent his Son into the World to ſave Sinners, and to call them to Repentance, give you a Repentance, never to be repented of, that your future Converſation, and blameleſs Life, may do as much good in the World, as your former example hath done harm.</p>
+            </q>
+         </div>
+         <div type="retraction">
+            <head>
+               <hi>After this Preliminary Diſcourſe, Mr.</hi> Sclater <hi>read, in the hearing of the whole Aſſembly, this fol<g ref="char:EOLhyphen"/>lowing Retractation.</hi>
+            </head>
+            <p>I <hi>Edward Sclater,</hi> late Curate of <hi>Putney,</hi> being unfeignedly ſorrowful for the Sin I have committed, and the Scandal I have given, by my late
+<pb n="5" facs="tcp:180249:3"/>
+ſhameful forſaking of the Communion of the Church of <hi>England,</hi> and joy<g ref="char:EOLhyphen"/>ning myſelf to that of <hi>Rome;</hi> and having made my moſt earneſt, and re<g ref="char:EOLhyphen"/>pealed, ſuplications to the moſt Reverend Father in God the Lord Arch-Biſhop of <hi>Canterbury</hi> for his Permiſſion, to make the beſt reparation I am able, for the great injuries done to the Church by that my Scandalous De<g ref="char:EOLhyphen"/>fection, in hopes of being again admitted to Communion in her Holy Of<g ref="char:EOLhyphen"/>fices, Do here, in the preſence of the All-ſeeing God, and under moſt ſeri<g ref="char:EOLhyphen"/>ous Apprehenſions of Judgment to come, heartily and freely, make the following Acknowledgement.</p>
+            <p>
+               <hi>First,</hi> As to the Romiſh Doctrines, concerning the Infallibility and Su<g ref="char:EOLhyphen"/>premacy of the Pope, or Church of <hi>Rome,</hi> and that Salvation cannot be had out of that Communion: I do utterly Renounce them, as contrary to the Word and Truth of God. And I do unfeignedly Aſſent to the Do<g ref="char:EOLhyphen"/>ctrine of the Church of <hi>England,</hi> ſet forth in her 39 Articles of Religion.</p>
+            <p>Moreover, I utterly Diſown all thoſe many falſe and ſcandalous paſſages contained in that unhappy Book, which I ſtyled, <hi>Conſenſus veterum;</hi> heartily wiſhing, I had never publiſhed it. More particularly<g ref="char:punc">▪</g> I Re<g ref="char:EOLhyphen"/>nounce thoſe diſparaging and falſe Expreſſions, concerning the Rule of Faith, and the Uſe of it, in the Church of <hi>England</hi> For whereas I there wrote, That the Canon of Scripture in the Church of <hi>England,</hi> was <hi>no other, but what</hi> her own Members <hi>were pleaſed to allow;</hi> that the <hi>Pri<g ref="char:EOLhyphen"/>vate Spirit</hi> was the <hi>Support of the Proteſtant Faith;</hi> and that I myſelf, whilſt in that Church, <hi>might have Choice of an hundred Faiths in Her.</hi> I am now fully convinced, That the Church of <hi>England</hi> does receive the very ſame Canon of Scripture, and the ſame Creeds, which have in all Ages of the Church been moſt Univerſally received, as containing all things Neceſſary to Salvation: And that She has due recourſe to the Anci<g ref="char:EOLhyphen"/>ent Fathers, and the Authority of the Church; as the moſt effectual Means for repreſſing the Extravagancies of each Man's private Spirit, and for the maintaining of Truth, and Peace, and good Order in the Church. And having now more ſeriouſly conſidered theſe Things, I ſincerely think, the Teſtimonies of the firſt ſix Centuries to be moſt fairly interpreted by the Divines of the Church of <hi>England,</hi> and muſt own, That I myſelf did alledge them very partially and corruptly, in behalf of Tranſubſtantiation, and other Errors of the Church of <hi>Rome.</hi>
+            </p>
+            <p>
+               <hi>Secondly,</hi> Whereas the uſual Boaſtings of the Romiſh Emiſſaries had made me hope, to find an Eminent Piety in that Communion; I moſt freely profeſs, and I ſpeak it from my own Obſervation of two years and
+<pb n="6" facs="tcp:180249:4"/>
+upwards, that That Religion has approved it ſelf to me utterly contrary to my Expectations.</p>
+            <p>My own Devotion was ſo effectually checked, that altho' Maſs was ſaid moſt days in the Week in my Houſe, yet I did not Receive for ſeve<g ref="char:EOLhyphen"/>ral Months together, nor found any I clination to do it: Becauſe I could never believe, that there was neither Bread nor Wine remaining after Con<g ref="char:EOLhyphen"/>ſecration. Nay, the oftner I ſaw the Elements after Conſecration, the leſs I could believe it, tho', I confeſs, I ſtrove my utmoſt.</p>
+            <p>My whole Family frequently complained, that they were nothing bet<g ref="char:EOLhyphen"/>tered by the Service, it being performed in <hi>Latin.</hi> And, do I what I could, they could not underſtand what was meant, nor what themſelves were to do, while the Prieſts were to Officiate.</p>
+            <p>I found the Prieſts very zealous for gaining Proſelytes, but very ne<g ref="char:EOLhyphen"/>gligent of their proper Charge. They would ſpend hours every day, up<g ref="char:EOLhyphen"/>on Wavering Proteſtants: But ſcarce Catechiſe Children once a fort<g ref="char:EOLhyphen"/>night, and then too not above half a quarter of an hour, and without any Expoſition.</p>
+            <p>I found, what I did not believe before, that Confeſſion was practiſed by them, as a means to gain Awe and Authority over the Laity, (the Prieſts pretending a Right to know every thing that was ſaid or done in the Family:) And yet it was neglected by themſelves. For they would celebrate Maſs without it, altho', to my knowledge, they were guilty of very heinous Sins. So that my Expectations of an extraordinary Piety in that Communion, were very far from being anſwered.</p>
+            <p>
+               <hi>Thirdly,</hi> I do ſorrowfully, and with Shame acknowledge, That my ſeeking and accepting a Royal Diſpenſation to receive the Profits of Eccle<g ref="char:EOLhyphen"/>ſiaſtical Perferments, when I knew my ſelf incapable by Law, and was perſwaded in my Judgement, that I ought not to Officiate; and yet at the ſame time paid another for doing what I thought He ought not to have done, was a juſt occaſion of very great Scandal, and might have proved fatal to the Church and Kingdom, if many had followed my wicked exam<g ref="char:EOLhyphen"/>ple. My beſt Pleais, (if I may mention any) That I did not then diſcern the ſecret Intrigues of that miſchievous Faction. But I hope, no Pious and charitable Heart will conceive, I can now be ſo blind, as not to ſee what every Man ſees; <hi>viz.</hi> That their Aim and practices tended to the Subver<g ref="char:EOLhyphen"/>ſion of All that was either Law or Religion.</p>
+            <p>After All, I am ſadly ſenſible That what I have heretofore ſaid, written,
+<pb n="7" facs="tcp:180249:4"/>
+and done, may juſtly render my Sincerity ſuſpected, even in theſe my Confeſſions. But, if a diligent ſearch into the Secrets of my own Soul, If a deep affliction of Spirit for what is paſt, If the ſtrongeſt Deſire of being reconciled to that Communion I have ſo wickedly forſaken, If the firmeſt Purpoſes of evidencing all theſe by ſuitable Actions for the future, be Proofs of being ſincere; I am ſure, I am ſo, and I deſire your Charity in Praying for me, (and may the Almighty graciouſly anſwer your Prayers and mine<hi>!)</hi> that as the Church does compaſſionatly receive me into her Com<g ref="char:EOLhyphen"/>munion; ſo God will be pleaſed in Mercy to ratifie her Act, and Receive, me, a Returning Penitent, to his Pardon: And grant, that I may recover his Favour, and the Aſſiſtances of his Holy Spirit, that my Repentance bearing ſome proportion to my Crime, the remainig part of my Life, (ſhort as it is like to be) may be ſpent in his True Faith and Fear, and to his Glory. And I do here, in the preſence of God, his holy Angels and this Congregation, proteſt, that I have done all this freely, without Equi<g ref="char:EOLhyphen"/>vocation or Reſervation, and do ſolemnly promiſe and Oblige my ſelf, to continue in ſincere and conſtant Communion with the Church of <hi>En<g ref="char:EOLhyphen"/>gland</hi> to my Life's End.</p>
+            <closer>
+               <signed>EDWARD SCLATER.</signed>
+            </closer>
+         </div>
+         <div type="to_the_reader">
+            <head>ADVERTISEMENT.</head>
+            <p>TO give Light to ſome Paſsages in the Hiſtorical Part of theſe Papers, and to let all Men ſee, with what Earneſtneſs Mr. <hi>Sclater</hi> ſued for a Reconciliation, and what Arguments he went upon, to con<g ref="char:EOLhyphen"/>vince himſelf of a neceſsity of returning to the Church of <hi>England,</hi> it is thought fit to add ſome of his letters written with his own Hand, both to his Grace the Lord Archbiſhop of <hi>Canterbury,</hi> and others, who were known to him, in order to his being Re-admitted to our Communion.</p>
+         </div>
+         <div n="1" type="letter">
+            <head>LETTER I. <hi>To Mr.</hi> Hutchins, <hi>Chaplain to the Right Honourable the Earl of</hi> Danby.</head>
+            <opener>
+               <salute>Dear Friend,</salute>
+            </opener>
+            <p>WHen my Obſervations for two Years and upward, below mentioned, had made me reflect upon the Doctrine of Infallibility, ſo wounded mortally by their own practices, I found I muſt needs lower the Notion, or be engaged in impoſſible Work of making Contradictions true. I think it cannot be denied, but the Church in every Nation is ſo far irrefragable that it is Unchriſtian to contradict Her in the leaſt undecent manner, but am
+<pb n="8" facs="tcp:180249:5"/>
+perfectly convinc'd by the preſent Biſhop of <hi>Lincoln</hi>'s Book, that the Ro<g ref="char:EOLhyphen"/>miſh Church has infallibly allowed and approved of many, not only Er<g ref="char:EOLhyphen"/>rors, but Unchriſtian ones. That I did not ſee this ſo well before, was, perhaps, in the Providence of God, that I might ſee it the better now. I ſhall be highly to blame, if I ever ceaſe to be truly ſorrowful for the unhap<g ref="char:EOLhyphen"/>py Want of his Informations.</p>
+            <p>Yet, that I left the Church of <hi>England</hi> for Intereſt, I utterly diſclaim; and aſſure you. That I was not ſo ſhort ſighted, nor ſo little vers'd in their practices, to be any thing dazled with that proſpect: I knew ſeveral In<g ref="char:EOLhyphen"/>ſtances long ago of their not only neglecting, but avoiding, thoſe they thought they had ſecured, for fear of Applications of that ſort: Beſides, I have declared to ſeveral, that it were not at all prudential in them, to en<g ref="char:EOLhyphen"/>courage proſelytes upon that account, for ſo they might have many Con<g ref="char:EOLhyphen"/>verts, and few Chriſtians; many for the Loaves, and few for the Bread of Life. Nay, ſo far have I been from making any ſuch Application, that a Noble Lord of that Communion can be my Witneſs, I aſſured him, I ne<g ref="char:EOLhyphen"/>ver would make any, and, I am ſure, I have been as good as my word; it is ſome ſmall comfort to me in the midſt of my hearty Sorrows for my Fault, that my Fault is, I think, ſo much the leſs. 'Twas not Gain I aimed at, but their Piety, (as I was miſ informed) ſurpaſſing all other Communions in the World.</p>
+            <p>The name of a Church of that extent, pretended to be ſo united in all the Truths of the Holy <hi>Jeſus,</hi> and withal, ſo full of Piety, as all their Wri<g ref="char:EOLhyphen"/>ters boaſted of, methought, was as glorious a proſpect as this World could yield, and well it were if there were ſuch an Heaven upon Earth; Who would not be glad to ſee it? Who would not be more glad to be in it? But I now conceive, it muſt be our prayers, becauſe as yet it can be no more than our Hopes; for in my own Houſe, I have had one Prieſt at one time ſo eager for the Pope's Infallibility, even <hi>extra Ca<g ref="char:EOLhyphen"/>thedram,</hi> that he has plainly aſſured me, I ſhould beyond Seas be Burnt for an Heretick for my conteſting againſt it: And another, as eagerly at another, condemning the former for his fierce inſiſting upon a Point, that might give diſguſt, and impede their progreſs in making Pro<g ref="char:EOLhyphen"/>ſelytes.</p>
+            <p>Having too raſhly ſwallowed the Doctrine of Infallibity, (God of his infinite Mercy Pardon my Raſhneſs) my main inquiry was the Euchariſt; a point, of all, the moſt difficult, that I was Dazled with its ſublimity, will not be a wonder to any Man: That it is myſterious, every good Chri<g ref="char:EOLhyphen"/>ſtian
+<pb n="9" facs="tcp:180249:5"/>
+will ſay; nay, that it is <hi>Tremendum Myſterium.</hi> Now that one Man highly diſtaſted at the low Expreſſions of ſome Proteſtants, ſhould fly too far from them, is juſt as natural, as, that another equally diſtaſt<g ref="char:EOLhyphen"/>ed with the Doctrine of Tranſubſtantiation, ſhould fly as far from it. This, I humbly conceive, ſtates my Caſe.</p>
+            <p>Nor was it long before I found, I had taken too far a flight, I could with eaſe believe as Real a Preſence as they would have me; if they will call this Tranſubſtantiation, I ſhould not disbelieve it, but I could not give over my Faith to the annihilating the Elements; nay, the oftner I ſaw it after Conſecration, the leſs I could believe it, thô, I confeſs, I ſtrove my ut<g ref="char:EOLhyphen"/>moſt to force my Faith up to it, but it would not do. Here I began to condemn my own Raſhneſs, and inconſiderat Precipitancy, nay, to think muſt at laſt become an Infidel, and believe little more that there is a God, which even Nature it ſelf would teach me) when I muſt believe, God bids me believe, what I began to find every day more and more impoſſible for me to believe. Here I began to miſtruſt I had miſtaken Zeal and fer<g ref="char:EOLhyphen"/>vent Expreſſions of ſome of the Fathers concerning this high Myſtery, quo<g ref="char:EOLhyphen"/>ted in an unhappy Book, for the ancient Doctrine of the Church, and that muſt lower their high Raptures to a more intelligible and rational Senſe.</p>
+            <p>So that ſince <hi>Whitſontide</hi> laſt, thô Maſs was ſaid moſt dayes of the Week in my Houſe, yet I have never Received, and, more than that, could not find in my ſelf much inclination to Receive.</p>
+            <p>Antecedent to which, you know, is Confeſſion, which I began ve<g ref="char:EOLhyphen"/>ry much to miſtruſt was a mere piece of Formality, as practiſed by them, eſpecially as to my own particular, with whom it was not enough to confeſs many idle Words, many angry Expreſſions to my Boys when unruly or undiligent, but I muſt name a particular Sin, or I could not be abſolved, one at leaſt, (I ſuppoſe he expected a huge matter) but any one ſerved turn, and then the buſineſs might be done. I could not well tell the Hearts of them, but it ſeemed to me, either a way of gi<g ref="char:EOLhyphen"/>ving Abſolution very eaſily, or elſe the ſqueezing out a particular, they might, if they pleaſe, make uſe of, toward the obtaining the greater Power over us, and keeping us by conſequence in more Awe; eſpeci<g ref="char:EOLhyphen"/>ally when I alſo conſidered, That two other Prieſts, guilty, to my know<g ref="char:EOLhyphen"/>ledge, of more heinous ſins, than, I bleſs God, I had any to confeſs, received every day, without Confeſſion or Abſolution, (unleſs they could confeſs and abſolve themſelves;) however, I could not but ac<g ref="char:EOLhyphen"/>count their ſo officiating rather a Deſecration than a Conſecration.</p>
+            <p>
+               <pb n="10" facs="tcp:180249:6"/>
+To tell you, that I was never throughly ſatisfyed in the Points of Liturgy in an unknown Tongue, and non participation of the Cup, is but to tell the plain Truth. I muſt confeſs, I huddled them both in<g ref="char:EOLhyphen"/>to the Power and Authority of the Church, and ſo their Arguments went the eaſier down. But as to the firſt, I found manifeſt ill Con<g ref="char:EOLhyphen"/>ſequences from it, my whole Family, beſides my ſelf, not only totally Ignorant of what was meant all the while the Prieſt was officiating, but, do what I could, at a loſs in what they had to do themſelves, and ſtill complaining, (my Wife eſpecially) that ſhe was nothing ſatisfy<g ref="char:EOLhyphen"/>ed or bettered. But one thing I cannot ommit: She was viſited with the violent Pain of the <hi>Sciatica,</hi> we both of us deſired the Prieſt to pray for eaſe of her Pain, which he refuſed with this uncomfortable Reply, That ſhe muſt bear what God was pleaſed to lay upon her. I could not but think Counſel, tho' very good, without Prayers of the Church, very uncomfortable. Perhaps, his Breviary had no ſuch pro<g ref="char:EOLhyphen"/>viſion in it. Tho' at the ſame time the little Children would frequent<g ref="char:EOLhyphen"/>ly go to their Manuals and Beads in her behalf</p>
+            <p>A third Obſervation I made, was, of their almoſt utter neglect of informing and inſtructing thoſe under their Charge, (it was enough, it ſeems, they were ſo) ſeldom, ſometimes not once a fortnight, Cate<g ref="char:EOLhyphen"/>techiſing tender little Ones, and when they did it, a ſhort foddering, not above half a quarter of an hour ſerv'd the turn, and that without any Explanation either of Queſtion or Anſwer. But yet, to give them their due, if they could find one abroad that would ſo liſten to their diſcourſes, as gave them any ſmall hopes they were to be prevailed up<g ref="char:EOLhyphen"/>on, they would ſpend hours every day with them; but this, methought look'd like ſtealing of Sheep, and ſtarving of Lambs To back this, their Negligence was altogether as great in other Duties of a Family, for even on <hi>Sundays</hi> not one word but the Maſs, and then all their Work was totally done: Not ſo much as calling us to Prayers in the After<g ref="char:EOLhyphen"/>noon, nay rather ſignifying to us the no neceſſity of them by their con<g ref="char:EOLhyphen"/>tinual Abſence from us at the time we were at them, but frequently taking a walk at that time.</p>
+            <p>A fourth Grievance was, That in our Diſcourſes, eſpecially the Sub<g ref="char:EOLhyphen"/>ject of Praying for the Dead, I told the Prieſt, That every time I ſaid <hi>Requieſcant in pace,</hi> I could not for my Heart forget my dead Mother<hi>:</hi> He asked me, If ſhe was a Catholick? I told him, No. He replyed,
+<pb n="11" facs="tcp:180249:6"/>
+I muſt not by any means uſe that Prayer for her. 'Twas very harſh, I thought, and ſo much uncharitable, that it ſeemed to me unnatural, I am ſure, ſhe led a better Life than he, more Juſt, more Devout; and be<g ref="char:EOLhyphen"/>lieve, her Ignorance will plead for her before the great Tribunal more effectually, than all the Sanctity he had in him.</p>
+            <p>Nor was their Carriage in my Houſe leſs troubleſom and unhandſom, as this ſingle inſtance (among many) may ſufficiently make appear. One of them finds one of the School boys very fit for his purpoſe, and his Office was, When this Prieſt at any time ſhould be abſent, to obſerve all the Fa<g ref="char:EOLhyphen"/>mily without exception, and to give him an account, when he came home, of all that had paſſed, or had been ſpoken: Which my Wife chiding the Boy for, the Prieſt managed him in it in theſe words: (Why, is there any thing to be ſaid or done in this Houſe, and I muſt not know it?) This was a Yoak upon me I never ſo much as dream'd of, for, till then, I thought my ſelf Maſter of my own Houſe, and my Houſe my Caſtle, thô never af<g ref="char:EOLhyphen"/>ter ſo long as I had ſuch an overtopping Dominion over me.</p>
+            <p>That theſe Particulars can be reconcileable with that Piety I expected to find in that Church, I ſhall for ever think impoſſible<hi>:</hi> So that as to the U<g ref="char:EOLhyphen"/>nity of the Church, I muſt conclude, it muſt conſiſt, (Pardon the new<g ref="char:EOLhyphen"/>neſs of the Expreſſion) in being Nerv'd and Sinew'd to Diſſenting Members in Fundamental Points and Charity: And I can now eaſily conceive, how Errors and Ignorance might creep into the Church, whilſt the ancient Go<g ref="char:EOLhyphen"/>vernours of that Church were more eager of Dominion, than careful of Do<g ref="char:EOLhyphen"/>ctrine, and their Inferiors aimed more at Gain, than Godlineſs.</p>
+            <p>Sir, Theſe, as I told you in my laſt, are but Perſonal Obſervations in my own Family, but <hi>ex pede Herculem,</hi> whatſoever the Learned Writers of the Church of <hi>England</hi> have Writ of their more publick Exorbitancies will now eaſily find belief with me upon the ſcore of theſe, which my own experience has found too true. When his Grace ſhall, according to his wonted Candour, receive this unfeigned account of my Diſguſts, I hope, he will aſſure himſelf, that my Repentance is as unfeigned and ſincere, as theſe are ſo true, that I can ſafely take my Oath of, before any Judicature in the whole World, a thouſand times over. In the mean time, I do aſſure him, I condemn my ſelf greatly, and cannot enough, for my unadviſed and raſh embracing that Religion, that has approv'd it ſelf to me ſo utterly contrary to my expctation. I have nothing to aſſure him of my unfeigned Sorrow for my Fault, but the words of my Mouth. God only knows the
+<pb n="12" facs="tcp:180249:7"/>
+Heart, upon all the Examination I can make, I am unfeignedly ſorrowful for it. None but our Saviour knew the Hearts of Enemies, yet his Church by his command have alwayes forgiven Penitents. I preſume none will be a greater follower of his Example and Precepts, than my Mother the Church of <hi>England,</hi> whoſe Pardon I as comfortably hope for, as I hum<g ref="char:EOLhyphen"/>bly beg it, I never yet heard her Clemency deny'd it: I humbly beg her to admit me to her Communion, upon the Terms the Primitive Church ad<g ref="char:EOLhyphen"/>mitted the ancient <hi>Lapſi,</hi> whether of the Clergy or Laity.</p>
+         </div>
+         <div n="2" type="letter">
+            <head>LETTER II. <hi>To His Grace the Lord Archbiſhop of</hi> CANTERBURY.</head>
+            <opener>
+               <salute>May it pleaſe Your Grace,</salute>
+            </opener>
+            <p>ACcording to what you have been pleaſ'd to Command, I have ſent You my unhappy Book, and alſo my firm Reſolution to retract all, or whatſoever in it ſhall be thought fit to be Retracted. In the mean time, as I have ſignifyed to your Grace already, ſo I again re<g ref="char:EOLhyphen"/>peat it, (having more ſeriouſly conſider'd and compared the late Pra<g ref="char:EOLhyphen"/>ctiſes, and paſt Uſurpations of the Church of <hi>Rome,)</hi> I ſincerely think the Teſtimonies of the firſt Six Centuries moſt fairly Interpreted by the Divines of the Church of <hi>England<g ref="char:punc">▪</g>
+               </hi> My Lord, I humbly beg my ſpeedy Reconciliation<hi>:</hi> Paſs by my raſh and inconſiderate Aberration, and compaſſionate my afflicted Spirit. If Sorrow quite overwhelm, What will become of a Soul out of Communion? This is my great Grief. But, my Lord, as Fleſh and Blood, I cannot but be much con<g ref="char:EOLhyphen"/>cern'd alſo for the aking Hearts of a miſerable Family, continually in Tears, becauſe ruin'd (without ſome ſpeedy prevention) by my Folly. The God of Heaven and Earth make my humble Petition ſucceſsful with your Grace, and that I may once more Subſcribe my ſelf</p>
+            <closer>
+               <signed>Your Grace's moſt Dutiful and Obedient Son and Servant <hi>EDW. SCLATER.</hi>
+               </signed>
+            </closer>
+         </div>
+         <div n="3" type="letter">
+            <pb n="13" facs="tcp:180249:7"/>
+            <head>LETTER III. <hi>To His Grace the Lord Archbiſhop of</hi> Canterbury:</head>
+            <opener>
+               <salute>May it pleaſe Your Grace,</salute>
+            </opener>
+            <p>THoſe few Rays of Comfort, my Dear Friend Mr. <hi>H.</hi> brought me laſt, I hope will ſpread themſelves into a much larger brightneſs. Your Grace has promiſed to admit me to your Preſence: My Heart full of Thanks is too little a return for ſo great a Clemency. Yet pardon an afflicted Spirit, if I think every Minute very tedious till that happy time come. I underſtand by him, the great Obſtacle of my farther Relief and Comfort, is, the ſuſpicion of my ſincerity: I cannot condemn it, the Hearts of Men are only known to him that made them. I wiſh I may te<g ref="char:EOLhyphen"/>ſtifie the ſincerity of mine, with the beſt aſſurances poſſible to be thought of, and will be glad of any aſſiſtance that can inform me of better than I can inform my ſelf, <hi>vae ſoli.</hi> But, what I can as yet do only in Words, ſhall with Gods Aſſiſtance be always confirm'd by future Actions and En<g ref="char:EOLhyphen"/>deavours ſutable to them.</p>
+            <p>Till I remov'd, I was at too great a diſtance from the poſſibilities of diſcerning the ſecret Intrigues of that miſchievous Faction, being totally taken up in my daily Imploys, and therefore eaſily detain'd under their ſtrong Deluſion. But I hope no pious and charitable Heart will conceive, I can now be thought ſo blind, as not to ſee what every Man ſees, <hi>viz.</hi> That their Aim and Practices tended to the ſubverſion of all that was either Law or Religion. Impiety may be ſo cunningly dawb'd over with Artificial Colours, as may (if not blind,) yet dazle the beſt of Eyes; but can it do ſo, when it is manifeſt? I humbly hope much better things will be thought of me, and Charity will plead for me in ſome ſuch form as this, (a better I ſhall never wiſh) <hi>Forgive him, he knew not what he did,</hi>
+            </p>
+            <p>My Lord, To thoſe, whether of the Clergy or Laity, whom I have formerly made ſorrowful for my Follies, I ſhall always hereafter make this return of Thankfulneſs, I will ever make it their comfort, that they find
+<pb n="14" facs="tcp:180249:8"/>
+me an Object of that Joy, that even Angels in Heaven have at the Con<g ref="char:EOLhyphen"/>verſion of a Sinner: Thoſe that miſtruſt my Sincerity, I will ſtill, by what Methods I can take, endeavour to manifeſt to them, they alſo ought to come in, partakers of that Joy.</p>
+            <p>I have ſpent no ſmall time in ſearching my Heart, for an affection to<g ref="char:EOLhyphen"/>wards thoſe former Deluſions that may lurk behind; and do aſſure your Grace, <hi>I</hi> find no one, nor any thing but an abhorrence of them: Nay, my Prayers have been already, and ever ſhall be, that all deluded by them, may ſpeedily get from under them.</p>
+            <p>And now, my Lord, my Heart is full of Supplication to your Grace for Compaſſion, that <hi>I</hi> may be Reconcil'd. I'll not give your Grace the trouble, the Reading the long Enumeration of them. The Sum of them is this, <hi>Father, I have ſinned againſt Heaven and before Thee, and am no more worthy to be called thy Son, make me as one of thy hired Ser<g ref="char:EOLhyphen"/>vants;</hi> So ſhall Bread, and not Husks, be once more the Food of</p>
+            <closer>
+               <signed>Your Graces most humble Petitioner, <hi>E. S.</hi>
+               </signed>
+            </closer>
+         </div>
+         <div n="4" type="letter">
+            <head>LETTER IV. <hi>To the Reverend Dr.</hi> Battely.</head>
+            <opener>
+               <salute>Reverend Sir,</salute>
+            </opener>
+            <p>PArdon an afflicted Spirit the giving you the trouble of delivering the in<g ref="char:EOLhyphen"/>cloſed to his Grace, if I have preſumed in ſo doing, put it upon the ac<g ref="char:EOLhyphen"/>count of that Chriſtian charitable office of receiving a Stranger, which God reward to you, with the entertaining, (tho' not an Angel) yet once more a good Man, and</p>
+            <closer>
+               <signed>Your much obliged Servant, <hi>EDW. SCLATER.</hi>
+               </signed>
+            </closer>
+         </div>
+         <div n="5" type="letter">
+            <pb n="15" facs="tcp:180249:8"/>
+            <head>LETTER V. <hi>To His Grace the Lord Archbiſhop of</hi> CANTERBURY.</head>
+            <opener>
+               <salute>May it pleaſe Your Grace,</salute>
+            </opener>
+            <p>I Have Writ to <note n="a" place="margin">
+                  <hi>One perverted to the Church of</hi> Rome <hi>by Mr.</hi> Sclater's <hi>Example.</hi>
+               </note> Mr. <hi>Wilkinſon,</hi> though I aſſure your Grace, I cannot call to mind who he is, or that ever I converſt with any Man of that Name; however, I pray God, what I have Written may be ſucceſsful upon him. I humbly beg I may re<g ref="char:EOLhyphen"/>ceive the Bleſſed Sacrament. My continual Prayers are for your being re<g ref="char:EOLhyphen"/>ſtored to perfect Health, and that you may live long to Gods Glory, and the Good of the Church;</p>
+            <closer>
+               <signed>I am, <hi>Your Graces most Obedient Petitioner<g ref="char:punc">▪</g> E. S.</hi>
+               </signed>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>Printed at</hi> London <hi>by</hi> Edward Jones, <hi>and Re-printed at</hi> Edinburgh, <hi>Anno Dom.</hi> 1689.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
